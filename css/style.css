@@ -31,25 +31,23 @@ img {
 }
 
 article {
-  margin-top: 5px;
+  margin: 15px;
+  height: 330px;
+  overflow: scroll;
+}
+h1 {
+  margin: 20px;
+}
+p {
+  margin: 20px;
   
 }
 
-h1 {
-
-}
-
-h2 {
-
-}
-
-p {
-
-}
-
 button {
-  float: right;
-
+  float: left;
+  margin: 15px;
+  height: 40px;
+  width: 300px;
 }
 
 footer {
@@ -57,3 +55,6 @@ footer {
   background-color: rgb(70, 68, 68);
   clear: both;
 }
+
+/* transition background color:350ms
+ease in and out. */
