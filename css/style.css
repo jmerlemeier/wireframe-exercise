@@ -50,6 +50,11 @@ button {
   width: 300px;
 }
 
+/* button:hover {
+  transition: [background-color: teal;] [350ms] [transition-timing-function] [transition-delay];
+  background-color: darkorange;
+} */
+
 footer {
   height: 100px;
   background-color: rgb(70, 68, 68);
