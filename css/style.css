@@ -1,0 +1,59 @@
+header>img {
+  margin-right: 5%;
+  float: left;
+  background-color:black;
+  /* border: solid red 3px; */
+}
+nav {
+  text-align: center;
+}
+ul {
+  height: 100px;
+  background-color:  rgb(70, 68, 68);
+  margin-top: 5px;
+}
+
+li {
+  display: inline-block;
+  color: lightgray;
+  padding: 40px;
+  
+
+}
+
+img {
+  margin:15px;
+}
+
+#featuredsectionbanner  {
+  float:left;
+  border: black, solid, 3px;
+}
+
+article {
+  margin-top: 5px;
+  
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+p {
+
+}
+
+button {
+  float: right;
+
+}
+
+footer {
+  height: 100px;
+  background-color: rgb(70, 68, 68);
+  clear: both;
+}
